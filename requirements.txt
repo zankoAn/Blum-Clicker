@@ -1,0 +1,4 @@
+imutils==0.5.4
+mss==9.0.1
+numpy==2.1.0
+opencv-contrib-python==4.10.0.84
