@@ -20,7 +20,7 @@ To install the required Python packages, run:
 
 ## Usage
 
-1. Start the ‍**Blume** game application on your system.
+1. Start the ‍**Blume** game application on your system( Click on the play button ).
 2. Run the `bluclick.py` script.
 3. Click on the game window after running the script. This action allows the script to capture the window's position and automatically click on the relevant objects.
 4. Keep the game window active and avoid moving or resizing it while the script is running. The tool relies on the game window remaining in its original position and size to function correctly.
