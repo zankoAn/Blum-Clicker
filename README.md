@@ -2,6 +2,10 @@
 Blume Clicker is an automated tool designed for a telegram blume game . It is built using OpenCV and NumPy and is optimized for Linux systems. This tool automatically clicks on green objects and blue ice objects appearing in the game while avoiding clicks on bombs.
 
 
+## Demo
+    
+https://github.com/user-attachments/assets/d9e24532-8287-4ed5-9851-a2d8ee97e4c5
+    
 ## Requirements
 
 Before running the application, make sure you have the following tools installed:
